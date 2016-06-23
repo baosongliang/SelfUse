@@ -15,36 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="acceptor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="AcceptHandler.cpp">
+    <ClCompile Include="handle_data.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="demo2.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ClientService.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="AcceptHandler_Ex.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ClientService_Ex.cpp">
+    <ClCompile Include="server.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AcceptHandler.h">
+    <ClInclude Include="acceptor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ClientService.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="AcceptHandler_Ex.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ClientService_Ex.h">
+    <ClInclude Include="handle_data.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReactorServer_demo1", "ReactorServer_demo1\ReactorServer_demo1.vcxproj", "{39AE0C4B-D3E9-4A53-91D4-765B0A96E1D3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ACE_Internals_Study_Reactor", "ACE_Internals_Study_Reactor\ACE_Internals_Study_Reactor.vcxproj", "{01A8B025-68A2-4D18-B5AA-9D317CBE17BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{39AE0C4B-D3E9-4A53-91D4-765B0A96E1D3}.Debug|Win32.Build.0 = Debug|Win32
 		{39AE0C4B-D3E9-4A53-91D4-765B0A96E1D3}.Release|Win32.ActiveCfg = Release|Win32
 		{39AE0C4B-D3E9-4A53-91D4-765B0A96E1D3}.Release|Win32.Build.0 = Release|Win32
+		{01A8B025-68A2-4D18-B5AA-9D317CBE17BC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{01A8B025-68A2-4D18-B5AA-9D317CBE17BC}.Debug|Win32.Build.0 = Debug|Win32
+		{01A8B025-68A2-4D18-B5AA-9D317CBE17BC}.Release|Win32.ActiveCfg = Release|Win32
+		{01A8B025-68A2-4D18-B5AA-9D317CBE17BC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
