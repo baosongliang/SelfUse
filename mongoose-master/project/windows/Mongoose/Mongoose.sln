@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "json_rpc_server", "..\..\..\examples\json_rpc_server\json_rpc_server.vcxproj", "{15F3B5B5-E5A5-4F8E-A41F-5370AC602B40}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "httpClient", "..\..\..\examples\http_client\httpClient.vcxproj", "{06B04E8E-7041-488A-9F39-9B281075031B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "httpServer", "..\..\..\examples\httpServer\httpServer.vcxproj", "{81AE623B-2AA8-4333-BF4A-707C7C88E688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F3B5B5-E5A5-4F8E-A41F-5370AC602B40}.Debug|Win32.ActiveCfg = Debug|Win32
+		{15F3B5B5-E5A5-4F8E-A41F-5370AC602B40}.Debug|Win32.Build.0 = Debug|Win32
+		{15F3B5B5-E5A5-4F8E-A41F-5370AC602B40}.Release|Win32.ActiveCfg = Release|Win32
+		{15F3B5B5-E5A5-4F8E-A41F-5370AC602B40}.Release|Win32.Build.0 = Release|Win32
+		{06B04E8E-7041-488A-9F39-9B281075031B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06B04E8E-7041-488A-9F39-9B281075031B}.Debug|Win32.Build.0 = Debug|Win32
+		{06B04E8E-7041-488A-9F39-9B281075031B}.Release|Win32.ActiveCfg = Release|Win32
+		{06B04E8E-7041-488A-9F39-9B281075031B}.Release|Win32.Build.0 = Release|Win32
+		{81AE623B-2AA8-4333-BF4A-707C7C88E688}.Debug|Win32.ActiveCfg = Debug|Win32
+		{81AE623B-2AA8-4333-BF4A-707C7C88E688}.Debug|Win32.Build.0 = Debug|Win32
+		{81AE623B-2AA8-4333-BF4A-707C7C88E688}.Release|Win32.ActiveCfg = Release|Win32
+		{81AE623B-2AA8-4333-BF4A-707C7C88E688}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
